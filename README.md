@@ -6,6 +6,9 @@ Game Dev project made in Unreal Engine 5.
 🔗 [Download from JioCloud] ->
     (https://www.jioaicloud.com/l/?u=HkBSrPtnwbkqdmovo17OewqMCl_TKgNDgEz5i-0elFs=doB)
 
+🔗 [Download from GameJolt] ->
+    (https://gamejolt.com/games/countdown/1005936)
+
 > Extract the file and run countdown.exe
 
 🕹️Countdown:
